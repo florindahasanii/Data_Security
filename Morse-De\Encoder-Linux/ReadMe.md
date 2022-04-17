@@ -26,14 +26,20 @@ In Windows,
   Example in Linux: 
   
   //Encode//
+  
   Input on Terminal: 
      python3 Morse.py -e "hello"
+     
+     
   Output: 
      .... . .-.. .-.. ---
      
   //Decode// 
+  
   Input on Terminal: 
      python3 Morse.py -d ".... . .-.. .-.. ---"
+     
+     
   Output: 
      H E L L O
      
